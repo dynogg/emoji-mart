@@ -1,5 +1,5 @@
 {
-  "name": "@emoji-mart/react",
+  "name": "@dynogg/emoji-mart-react",
   "version": "1.1.1",
   "description": "React wrapper for Emoji Mart; the emoji picker for the web.",
   "license": "MIT",
